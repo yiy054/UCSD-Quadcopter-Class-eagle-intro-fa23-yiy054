@@ -1,0 +1,13 @@
+*.zip
+starter
+.*.lck
+*.pro
+*~
+~$*
+*.l#?
+*.s#?
+*.b#?
+*.cam
+.DS_Store
+.#*
+.test.out
